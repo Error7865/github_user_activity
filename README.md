@@ -1,4 +1,4 @@
-#GitHub User Activity
+# GitHub User Activity
 GitHub User Activity is a basic program that fetch data from github API and display thoes on terminal.
 For this it require GitHub username.
 
